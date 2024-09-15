@@ -35,10 +35,6 @@
   <img width="16" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="30" alt="django logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo"  />
-  <img width="16" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
