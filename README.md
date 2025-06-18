@@ -26,9 +26,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="16" />
@@ -36,13 +34,15 @@
   <img width="16" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
 </div>
 
 ###
